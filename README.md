@@ -3,12 +3,11 @@
 <p>Me encanta explorar todo tipo de tecnologia y aprender sobre ellas 🛠️.</p>
 <br/>
 <br/>
+## Habilidades Técnicas
 
-### Habilidades Técnicas
-
-- Lenguajes de programacion: &nbsp;  HTML, CSS, JavaScript, Python
-- Frameworks y Librerías: &nbsp; Django, Bootsrap
-- Bases de datos: &nbsp; SQL 
+- Lenguajes de programacion: &nbsp;  HTML, CSS, JavaScript, Python.
+- Frameworks y Librerías: &nbsp; Django, Bootsrap.
+- Bases de datos: &nbsp; SQL.
 
 ## Habilidades Blandas
 
