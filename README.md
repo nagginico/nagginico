@@ -1,5 +1,6 @@
+<img src="" alt="Aca va una img">
 <h1>¡Hola me llamo Nicolas Naggi! </h1>  
-<img src="img/3.png" alt="">
+
 
 <!--
 **nagginico/nagginico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
