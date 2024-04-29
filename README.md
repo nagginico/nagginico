@@ -3,6 +3,7 @@
 <p>Me encanta explorar todo tipo de tecnologia y aprender sobre ellas 🛠️.</p>
 <br/>
 <br/>
+
 ### Habilidades Técnicas
 
 - Lenguajes de programacion: &nbsp;  HTML, CSS, JavaScript, Python
